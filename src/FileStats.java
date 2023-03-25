@@ -1,5 +1,12 @@
 import java.io.*;
 
+/**
+ * @author Trevor Hartman
+ *
+ * @author crazyne55
+ *
+ * 3/24/2023 @ 1930
+ */
 public class FileStats {
     private int numLines;
     private int numWords;

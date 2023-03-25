@@ -4,6 +4,13 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
+/**
+ * @author Trevor Hartman
+ *
+ * @author crazyne55
+ *
+ * 3/24/2023 @ 1930
+ */
 public class Main {
 
     public static void main(String[] args) {
